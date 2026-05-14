@@ -1,0 +1,16 @@
+CustomerID,Gender,Region,Purchase,Amount
+C001,Female,North,Electronics,4500
+C002,Male,South,Clothing,2200
+C003,Female,East,Groceries,1800
+C004,Male,West,Electronics,5200
+C005,Female,North,Clothing,3100
+C006,Male,South,Groceries,1500
+C007,Female,East,Electronics,7000
+C008,Male,West,Clothing,2800
+C009,Female,North,Groceries,2000
+C010,Male,South,Electronics,6500
+C011,Female,East,Clothing,3300
+C012,Male,West,Groceries,1700
+C013,Female,North,Electronics,8000
+C014,Male,South,Clothing,2600
+C015,Female,East,Groceries,1900
